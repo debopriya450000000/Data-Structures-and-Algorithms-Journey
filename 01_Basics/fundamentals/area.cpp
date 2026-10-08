@@ -1,3 +1,9 @@
+// Learning:
+// I learned how a mathematical formula can be converted
+// into a C++ expression.
+// The program takes input values, applies the area formula,
+// and displays the calculated result.
+
 #include <iostream>
 using namespace std;
 
